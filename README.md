@@ -2,6 +2,12 @@
 
 An interactive data visualization dashboard for analyzing electric vehicle population data in Washington State. Built with Next.js, TypeScript, and D3.js for comprehensive EV market insights.
 
+## 🚀 Live Demo
+
+**[View Live Dashboard](http://ec2-3-111-50-83.ap-south-1.compute.amazonaws.com/)** ⚡
+
+Experience the full functionality of the EV Analytics Dashboard with real-time data visualization and interactive features.
+
 ## 🌟 Features
 
 ### 📊 **Interactive Data Visualization**
